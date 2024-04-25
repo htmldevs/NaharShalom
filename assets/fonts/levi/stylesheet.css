@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Leonardo (Levi)';
+    src: url('LeonardoLevi.woff2') format('woff2'),
+        url('LeonardoLevi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
